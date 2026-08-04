@@ -87,7 +87,7 @@ Fill the STATE column from your own data before scoring. An unfilled board is a 
 
 **Second-order cost of zero:** a placement scoring model cannot calibrate below ~10 placements. Its factor weights stay unvalidated priors. You end up steering by a model nobody has checked.
 
-**The uncomfortable part:** this is the lever the data usually points at hardest and the one nobody enjoys. It is outreach. It is slow, it is refused often, and it does not produce an artifact you can show a client at the end of the week.
+**The uncomfortable part:** this is the lever the data usually points at hardest and the one nobody enjoys. It is outreach. It is slow, it is refused often, and it produces nothing visible at the end of the week.
 
 ---
 
