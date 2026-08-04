@@ -135,8 +135,8 @@ Writer skills commonly contradict each other on FAQ shaping. They are arguing ab
 
 ## What this skill will tell you that you may not want to hear
 
-**If gates 1–4 all pass and gates 5–7 fail, more content is the wrong answer** and saying otherwise to keep a content retainer busy is the expensive kind of lie. The honest output in that case is: stop writing, go get named by someone independent, and accept that the number will not move for a quarter.
+**If gates 1–4 all pass and gates 5–7 fail, more content is the wrong answer.** The honest output in that case is: stop writing, go get named by someone independent, and accept that the number will not move for a quarter.
 
 **A zero with a large n and real answers underneath it is not a measurement problem.** It is the finding. Engines that cite hundreds of other sources on your exact questions and never cite you have made a judgement, and the judgement is about corroboration, not about your prose.
 
-**Most of what moves AI citation is not on your website.** That is unwelcome for an agency that sells websites and content, and it is what the data says.
+**Most of what moves AI citation is not on your website.** That is an uncomfortable finding when the effort so far has been concentrated on-site, and it is what the data says.
